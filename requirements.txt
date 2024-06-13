@@ -1,0 +1,5 @@
+torch
+Pillow
+torchvision
+numpy
+pytorch-lightning==2.2.5
